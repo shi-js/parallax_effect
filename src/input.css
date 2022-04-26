@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-header {
+  background: url(/img/wp9439187-rose-blackpink-pc-wallpapers.jpg) center center no-repeat;
+  background-attachment: fixed;
+}
+
+.bg-quote {
+  background: url(/img/wp10226354-rose-blackpink-pc-wallpapers.jpg) center center no-repeat;
+  background-attachment: fixed;
+}
